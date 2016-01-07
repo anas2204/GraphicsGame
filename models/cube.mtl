@@ -1,0 +1,67 @@
+# Exported from 3D Builder
+
+newmtl 0_0
+Ka 0.35 0.35 0.35
+Kd 1.000000 1.000000 1.000000
+map_Kd vase_round_d.bmp
+
+newmtl 0_1
+Ka 0.7 0. 0.7
+Kd 1.000000 1.000000 1.000000
+map_Kd vase_round_d.bmp
+
+newmtl 0_2
+Ka 1.0 1.0 1.0
+Kd 1.000000 1.000000 1.000000
+map_Kd vase_round_d.bmp
+
+newmtl cubeMaterial
+Ns 10.0000
+Ni 1.5000
+illum 2
+mask 1
+Kd 1.0000 0.000 0.0000
+Ka 1.0 0.0 0.0
+
+newmtl cubeMaterial_2
+Ns 10.0000
+Ni 1.5000
+illum 2
+mask 1
+Ka 0.0 1.0 0.0
+Kd 0.0000 1.0000 0.0000
+
+newmtl cubeMaterial_blue
+Ns 10.0000
+Ni 1.5000
+illum 2
+mask 1
+Kd 0.0000 0.000 1.000
+
+newmtl cubeMaterial_enemy
+Ns 10.0000
+Ni 1.5000
+illum 2
+mask 1
+Kd 1.000 0.000 1.0000
+
+newmtl cubeMaterial_enemy2
+Ns 10.0000
+Ni 1.5000
+illum 2
+mask 1
+Kd 0.480 0.250 0.000
+
+newmtl cubeMaterial_pinkSnake
+Ns 10.0000
+Ni 1.5000
+illum 2
+mask 1
+Kd 1.0000 0.7647 0.8823
+
+newmtl cubeMaterial_disk
+Ns 10.0000
+Ni 1.5000
+illum 2
+mask 1
+Kd 0.8300 0.190 0.5500
